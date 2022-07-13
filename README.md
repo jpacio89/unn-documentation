@@ -10,3 +10,5 @@ UNN is a generic AI framework that aims to implement 3 major cognitive processes
 The UNN framework allows the user to rapidly create and deploy artificial brains to solve problems with AI. For example, you can use the UNN framework to create a chess-playing brain without having to use a lot of code. All you need to do would be to integrate the game's dataflows (input and output) and define a utility function.
 
 ## Architecture
+
+
