@@ -1,7 +1,7 @@
 # UNN Documentation
 
 UNN is a generic AI framework that aims to implement 3 major cognitive processes:
-1. Dataset/dataflows processing and model generation
+1. Datasets/dataflows processing and model generation
 2. Feature predictions and decision making based on the generated models (WIP)
 3. Built-in scripting language for utility function declaration (WIP)
 
